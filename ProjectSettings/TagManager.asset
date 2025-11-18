@@ -42,3 +42,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: 2langit
+    uniqueID: 2373100939
+    locked: 0
+  - name: 1awan
+    uniqueID: 415162019
+    locked: 0
+  - name: 3tiang
+    uniqueID: 1334747597
+    locked: 0
+  - name: player
+    uniqueID: 1220300305
+    locked: 0
+  - name: 5bukit
+    uniqueID: 1381173613
+    locked: 0
+  - name: 4tanah
+    uniqueID: 899290661
+    locked: 0
