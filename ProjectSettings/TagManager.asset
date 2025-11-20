@@ -51,12 +51,18 @@ TagManager:
   - name: 3tiang
     uniqueID: 1334747597
     locked: 0
-  - name: player
-    uniqueID: 1220300305
-    locked: 0
   - name: 5bukit
     uniqueID: 1381173613
     locked: 0
   - name: 4tanah
     uniqueID: 899290661
+    locked: 0
+  - name: player
+    uniqueID: 1220300305
+    locked: 0
+  - name: ground
+    uniqueID: 2589014007
+    locked: 0
+  - name: object
+    uniqueID: 3263943351
     locked: 0

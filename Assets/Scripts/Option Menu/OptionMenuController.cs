@@ -24,7 +24,7 @@ public class OptionMenuController : MonoBehaviour
     // ✨ KOREKSI: Tambahkan kata kunci 'public' di sini
     public void SetFullscreen(bool isFullscreen)
     {
-        Screen.fullScreen = isFullscreen;
+        Screen.fullScreen = true;
         PlayerPrefs.SetInt(FULLSCREEN_KEY, isFullscreen ? 1 : 0);
         PlayerPrefs.Save();
     }
